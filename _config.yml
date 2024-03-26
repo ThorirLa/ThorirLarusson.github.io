@@ -1,4 +1,3 @@
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -19,20 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 title: Þórir Lárusson
 email: thorir.larusson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the official website of Þórir Lárusson, a student at DTU specializing in business analytics. 
   This platform aims to provide comprehensive information about Þórir, facilitating his fun work in social data analysis and visualization.
 
-baseurl: "" # If your repo name is ThorirLarusson.github.io
-url: "" # No trailing slash needed
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thorir99
 github_username:  thorirla
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
