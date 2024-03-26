@@ -31,7 +31,7 @@ twitter_username: thorir99
 github_username:  thorirla
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
