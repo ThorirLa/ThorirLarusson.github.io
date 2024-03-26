@@ -32,7 +32,7 @@ twitter_username: thorir99
 github_username:  thorirla
 
 # Build settings
-theme: jekyll-theme-Architect
+theme: Architect
 plugins:
   - jekyll-feed
 
