@@ -33,8 +33,6 @@ github_username:  thorirla
 
 # Build settings
 theme: jekyll-theme-merlot
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
