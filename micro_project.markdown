@@ -26,7 +26,8 @@ Additionally, in an [article][most-common-drug] I found, the most common drug ch
 
 Now lets move away from the calpolt and look into a different ascpect of the drug and narrcotic crime incitens and look into the districts in the San Francisco area. By doing this we could possible see insights into the where the most related crimes can be in the district. So by knowing where the crime is most seen, we can add more police to those districts. Now we are going to show 
 
-[Theft by District](/html/map.html)
+
+<iframe src="/html/map.html" width="100%" height="500px"></iframe>
 
 
 
