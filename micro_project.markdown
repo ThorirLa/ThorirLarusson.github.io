@@ -32,14 +32,14 @@ Next, we'll present the Crime by District map:
 <iframe src="{{ '/html/map.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
 
-The choropleth mapbox plot clearly indicates that the district with the highest number of drug-related crimes is Tenderloin. Therefore, we decided to investigate why [Tenderloin][tenderloin] is such a hotspot. As expected, Tenderloin emerges as the most dangerous district in San Francisco where the most homeless and crimes are reported in this district. So with this data we can add more plocie patrol around these palces so we can try to lower the drug connected cases. And by using heamap like below it can be esaier to place the police cars.
+The choropleth mapbox plot clearly indicates that the district with the highest number of drug-related crimes is Tenderloin. Therefore, we decided to investigate why Tenderloin is such a hotspot. As expected, [Tenderloin][tenderloin] emerges as the most dangerous district in San Francisco, where the highest number of homeless individuals and crimes are reported. Utilizing this data, we can strategically increase police patrols in these areas to mitigate drug-related incidents.
+
+Additionally, employing tools such as heatmaps, as demonstrated below, enables us to analyze crime patterns and determine optimal patrol placement:
 
 <!-- HTML block starts -->
 <iframe src="{{ '/html/drug_arrest_map.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
-
-
-
+Social visualization techniques can greatly aid in lowering crime rates by identifying high-risk areas. However, it's essential to consider moral implications. For further insights, please refer to the following link.
 
 
 [crime-data]: https://datasf.org/opendata/
