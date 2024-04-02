@@ -4,7 +4,7 @@ title: Micro Project in social data
 permalink: /Micro Project/
 ---
 
-A little bit about our project: We are going to use the San Francisco crime data from 2003 to May 2018. Here is the link to the [crime data][crime-data]. This dataset contains information about various crimes reported in San Francisco over several years. Each entry includes details such as the type of crime, the location where it occurred, and the date and time of the incident. By analyzing this dataset, we can provide insights into trends and patterns in criminal activities over time and space within the city.
+A little bit about our project, we are going to use the San Francisco crime data from 2003 to May 2018. Here is the link to the [crime data][crime-data]. This dataset contains information about various crimes reported in San Francisco over several years. Each entry includes details such as the type of crime, the location where it occurred, and etc. By analyzing this dataset, we can provide insights into trends and patterns in criminal activities over time and space within the city.
 
 Over the past few weeks, we have been closely studying this dataset and have discovered many intriguing insights into crime-related issues in San Francisco. However, I've always found the topic of drugs and narcotics in the United States fascinating. There have been numerous epidemics in the country's history, such as the [crack cocaine][crack-cocaine] epidemic, the [OxyContin epidemic][opioid-epidemic] , and today we face the [fentanyl epidemic][opioid-epidemic]. For this micro project, we aim to delve into drug and narcotics data from 2003 to 2018 to uncover interesting patterns and connections related to these epidemics. Let's begin by plotting the crime data concerning drugs and narcotics over the past years.
 
@@ -21,6 +21,9 @@ Upon further investigation, I observed spikes in drug overdoses around 2010, cor
 For additional context, consider the image and link showcasing the waves of the [opiod overdoses][opioid-epidemic]:
 ![opioid](/images/opiod.png)
 
+Additionally, in an [article][most-common-drug] I found, the most common drug charge is the possession of marijuana, typically classified as a misdemeanor. This observation could potentially correlate with the decrease in reported drug-related incidents. Given that California legalized the possession of marijuana in 2018, it's possible that the popularity of marijuana wasn't being accurately reported in the later years, thus contributing to the apparent decline in drug-related incidents. While various factors could explain the observed decreases, this aspect is nonetheless intriguing.
+
+To gain insight into the crime-prone districts, we compiled data on all crimes reported in the districts of San Francisco. Below, we present the total number of crimes by district:
 
 
 
@@ -28,3 +31,5 @@ For additional context, consider the image and link showcasing the waves of the 
 [crime-data]: https://datasf.org/opendata/
 [crack-cocaine]: https://en.wikipedia.org/wiki/Crack_epidemic_in_the_United_States
 [opioid-epidemic]: https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States
+[most-common-drug]: https://www.roselegalservices.com/what-drug-charges-are-most-common/
+
