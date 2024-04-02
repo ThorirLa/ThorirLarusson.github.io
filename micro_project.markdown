@@ -32,7 +32,12 @@ Next, we'll present the Crime by District map:
 <iframe src="{{ '/html/map.html' | prepend: site.baseurl }}" width="100%" height="400"></iframe>
 <!-- HTML block ends -->
 
-The choropleth mapbox plot clearly indicates that the district with the highest number of drug-related crimes is Tenderloin. Therefore, we decided to investigate why Tenderloin is such a hotspot. As expected, Tenderloin emerges as the most dangerous district in San Francisco where the most homeless and crimes are reported in this district.
+The choropleth mapbox plot clearly indicates that the district with the highest number of drug-related crimes is Tenderloin. Therefore, we decided to investigate why [Tenderloin][tenderloin] is such a hotspot. As expected, Tenderloin emerges as the most dangerous district in San Francisco where the most homeless and crimes are reported in this district. So with this data we can add more plocie patrol around these palces so we can try to lower the drug connected cases. And by using heamap like below it can be esaier to place the police cars.
+
+<!-- HTML block starts -->
+<iframe src="{{ '/html/drug_arrest_map.html' | prepend: site.baseurl }}" width="100%" height="400"></iframe>
+<!-- HTML block ends -->
+
 
 
 
@@ -41,4 +46,6 @@ The choropleth mapbox plot clearly indicates that the district with the highest 
 [crack-cocaine]: https://en.wikipedia.org/wiki/Crack_epidemic_in_the_United_States
 [opioid-epidemic]: https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States
 [most-common-drug]: https://www.roselegalservices.com/what-drug-charges-are-most-common/
+[tenderloin]: https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco#:~:text=Part%20of%20the%20western%20extent,and%20crime%20in%20the%20city.
+
 
