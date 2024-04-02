@@ -23,14 +23,12 @@ For additional context, consider the image and link showcasing the waves of the 
 
 Additionally, in an [article][most-common-drug] I found, the most common drug charge is the possession of marijuana, typically classified as a misdemeanor. This observation could potentially correlate with the decrease in reported drug-related incidents. Given that California legalized the possession of marijuana in 2018, it's possible that the popularity of marijuana wasn't being accurately reported in the later years, thus contributing to the apparent decline in drug-related incidents. While various factors could explain the observed decreases, this aspect is nonetheless intriguing.
 
+Now let's shift our focus away from the topic of drug and narcotics crime incidents and delve into a different aspect by examining the districts in the San Francisco area. This exploration may offer insights into where the highest concentration of related crimes occurs within the districts. With this knowledge, we can allocate additional police resources to those areas accordingly.
 
-Now lets move away from the calpolt and look into a different ascpect of the drug and narrcotic crime incitens and look into the districts in the San Francisco area. By doing this we could possible see insights into the where the most related crimes can be in the district. So by knowing where the crime is most seen, we can add more police to those districts. Now we are going to show 
+Next, we'll present the Crime by District map:
+[Crime by District](/html/map.html)
 
-[Theft by District](/html/map.html)
-
-The choropleth mapbox plot shows that by far the most crimes related in drug is in the distrect tenderloin, so we looked into why tendorloin is such a hotpots and as aspected is tenderloin the most dangrious district in san francico which 
-
-
+The choropleth mapbox plot clearly indicates that the district with the highest number of drug-related crimes is Tenderloin. Therefore, we decided to investigate why Tenderloin is such a hotspot. As expected, Tenderloin emerges as the most dangerous district in San Francisco, often referred to as 'the hood'."
 
 
 
