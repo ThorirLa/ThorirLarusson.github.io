@@ -10,11 +10,15 @@ Over the past few weeks, we have been closely studying this dataset and have dis
 
 ![Calender plot for Drug and Narcotics](/images/calander_plot_micro.png)
 
-The calpolt offers a visual representation of drug and narcotic crime incidents over a period of fifteen years. This type of plot allows us to quickly discern patterns and trends over time. Where the darker spots revelie the more reportd crimes and lighter less.
+The calpolt offers a visual representation of drug and narcotic crime incidents over a period of fifteen years. This type of plot allows us to quickly discern patterns and trends over time, with darker spots indicating higher reported crime rates and lighter spots indicating lower rates.
 
-Upon examinig the calplot, it is fascinating to observe the how the spike of crime drops in 2012 which is really interesting, this suggests a decreace in drug/narcotic crimes frequency. However the lighter color in the most recent years could also be due to incomplete data, which warrants cations because you never know if this could been less crimes or bad data, meaning the data is more sparse which could be due to delay in reporting but lets try to find something interesting. Also the plot shows that most of drug related crime is around 2007 to 2009 which is in the same time reange as the world finacial crash.
+Upon examining the calendar plot, it is intriguing to note the significant drop in crime spikes in 2012, suggesting a decrease in the frequency of drug/narcotic crimes. However, the lighter color in more recent years may be attributable to incomplete data, warranting caution in interpretation. The possibility of fewer crimes or data inaccuracies, possibly due to reporting delays, underscores the need for careful analysis.
 
-Also upon further investiagation I saw that that the drug overdoses spikes up around 2010 connting to the rices of Herion overdose deaths in 2010, and a antoher rise in synthetic opioid overdoes deaths in 2013 which indicates in calplot the crime rates are falling but not the overdoses which is pretty weird becuase I thought with more overdoes the would correlate together and then should have then more crime rate. here is the image and link showcasing the waves of [opiod overdoses][opioid-epidemic]:
+Furthermore, the plot reveals that the majority of drug-related crimes occurred between 2007 and 2009, coinciding with the global financial crisis.
+
+Upon further investigation, I observed spikes in drug overdoses around 2010, correlating with the rise in heroin overdose deaths, and another surge in synthetic opioid overdose deaths in 2013. This discrepancy between decreasing crime rates and increasing overdoses raises questions. One would expect a correlation between overdose rates and crime rates, yet the data suggests otherwise. This anomaly warrants further exploration to understand the complex dynamics at play.
+
+For additional context, consider the image and link showcasing the waves of the [opiod overdoses][opioid-epidemic]:
 ![opioid](/images/opiod.png)
 
 
