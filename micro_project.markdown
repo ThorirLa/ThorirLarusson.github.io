@@ -8,6 +8,7 @@ A little bit about our project: We are going to use the San Francisco crime data
 
 Over the past few weeks, we have been closely studying this dataset and have discovered many intriguing insights into crime-related issues in San Francisco. However, I've always found the topic of drugs and narcotics in the United States fascinating. There have been numerous epidemics in the country's history, such as the [crack cocaine][crack-cocaine] epidemic, the [OxyContin epidemic][opioid-epidemic] , and today we face the [fentanyl epidemic][opioid-epidemic]. For this micro project, we aim to delve into drug and narcotics data from 2003 to 2018 to uncover interesting patterns and connections related to these epidemics. Let's begin by plotting the crime data concerning drugs and narcotics over the past years.
 
+![Calender plot for Drug and Narcotics](/images/calander_plot_micro.png)
 
 [crime-data]: https://datasf.org/opendata/
 [crack-cocaine]: https://en.wikipedia.org/wiki/Crack_epidemic_in_the_United_States

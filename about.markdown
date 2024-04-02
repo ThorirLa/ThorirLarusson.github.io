@@ -20,7 +20,7 @@ permalink: /about/
     }
 </style>
 
-![Þórir Lárusson](/Picture_1.png)
+![Þórir Lárusson](/images/Picture_1.png)
 
 <div class="about-text">
     Allow me to introduce myself. My name is Þórir Lárusson, and I've recently relocated to Denmark to pursue a master's degree in business analytics. Over the past three years, I delved into the realm of financial engineering at the University of Reykjavík, where my passion for finance ignited. This journey also sparked a newfound enthusiasm for programming and innovation, fueled by my engineering skills. I am eager to delve deeper into these fields and explore opportunities for future endeavors.
