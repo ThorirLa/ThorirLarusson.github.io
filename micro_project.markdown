@@ -28,6 +28,7 @@ Now lets move away from the calpolt and look into a different ascpect of the dru
 
 [Theft by District](/html/map.html)
 
+The choropleth mapbox plot shows that by far the most crimes related in drug is in the distrect tenderloin, so we looked into why tendorloin is such a hotpots and as aspected is tenderloin the most dangrious district in san francico which 
 
 
 
