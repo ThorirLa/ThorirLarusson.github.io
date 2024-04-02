@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Micro Project in social data "
-date:   2024-03-18 15:41:03 -0000
-categories: CATEGORY-1 CATEGORY-2
+layout: page
+title: Micro Project in social data
+permalink: /Micro Project/
 ---
 
 A little bit about our project: We are going to use the San Francisco crime data from 2003 to May 2018. Here is the link to the [crime data][crime-data]. This dataset contains information about various crimes reported in San Francisco over several years. Each entry includes details such as the type of crime, the location where it occurred, and the date and time of the incident. By analyzing this dataset, we can provide insights into trends and patterns in criminal activities over time and space within the city.
