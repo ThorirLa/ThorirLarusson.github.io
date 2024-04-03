@@ -39,7 +39,15 @@ Additionally, employing tools such as heatmaps, as demonstrated below, enables u
 <!-- HTML block starts -->
 <iframe src="{{ '/html/drug_arrest_map.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
-Social visualization techniques can greatly aid in lowering crime rates by identifying high-risk areas. However, it's essential to consider moral implications. For further insights, please refer to the following link.
+Social visualization techniques can greatly aid in lowering crime rates by identifying high-risk areas.
+
+
+After seeing that Tenderloin is affilated with most of the drug and narcotics crimes I wondered if it has always been like this for the past 15 years so next we are going to show you a bokeh plot that show the drug and narcotics realted crimes for each district for the past 15 years. From this graph we can see how the districts change over the past years.
+
+
+
+
+
 
 
 [crime-data]: https://datasf.org/opendata/
