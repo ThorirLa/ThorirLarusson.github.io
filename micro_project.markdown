@@ -6,7 +6,7 @@ permalink: /Micro Project/
 
 A little bit about our project, we are going to use the San Francisco crime data from 2003 to May 2018. Here is the link to the [crime data][crime-data]. This dataset contains information about various crimes reported in San Francisco over several years. Each entry includes details such as the type of crime, the location where it occurred, and etc. By analyzing this dataset, we can provide insights into trends and patterns in criminal activities over time and space within the city.
 
-Over the past few weeks, we have been closely studying this dataset and have discovered many intriguing insights into crime-related issues in San Francisco. However, I've always found the topic of drugs and narcotics in the United States fascinating. There have been numerous epidemics in the country's history, such as the [crack cocaine][crack-cocaine] epidemic, the [OxyContin epidemic][opioid-epidemic] , and today we face the [fentanyl epidemic][opioid-epidemic]. For this micro project, we aim to delve into drug and narcotics data from 2003 to 2018 to uncover interesting patterns and connections related to these epidemics. Let's begin by plotting the crime data concerning drugs and narcotics over the past years.
+Over the past few weeks, we have been closely studying this dataset and have discovered many interesting insights into crime-related issues in San Francisco. However, I've always found the topic of drugs and narcotics in the United States fascinating. There have been numerous epidemics in the country's history, such as the [crack cocaine][crack-cocaine] epidemic, the [OxyContin epidemic][opioid-epidemic] , and today we face the [fentanyl epidemic][opioid-epidemic]. For this micro project, we aim to delve into drug and narcotics data from 2003 to 2018 to uncover interesting patterns and connections and maybe we can related to these epidemics. Let's begin by plotting the crime data concerning drugs and narcotics over the past years.
 
 ![Calender plot for Drug and Narcotics](/images/calander_plot_micro.png)
 
@@ -43,6 +43,11 @@ Social visualization techniques can greatly aid in lowering crime rates by ident
 
 
 After seeing that Tenderloin is affilated with most of the drug and narcotics crimes I wondered if it has always been like this for the past 15 years so next we are going to show you a bokeh plot that show the drug and narcotics realted crimes for each district for the past 15 years. From this graph we can see how the districts change over the past years.
+
+
+<!-- HTML block starts -->
+<iframe src="{{ '/html/drug_crimes_by_year_and_district.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
+<!-- HTML block ends -->
 
 
 
