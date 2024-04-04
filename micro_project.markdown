@@ -37,7 +37,8 @@ Additionally, employing tools such as heatmaps, as demonstrated below, enables u
 <!-- HTML block starts -->
 <iframe src="{{ '/html/drug_arrest_map.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
-Social visualization techniques can greatly aid in lowering crime rates by identifying high-risk areas which is called predictive crime analyses which you can see more about [here][Predictive-policing].
+
+Social visualization techniques can significantly contribute to reducing crime rates by identifying high-risk areas. This approach is known as predictive crime analysis, which you can read more about [here][Predictive-policing].
 
 After observing the prevalence of drug and narcotics crimes in the Tenderloin district, we wondered whether this trend has persisted over the past 15 years. Below, we present a bokeh plot illustrating the distribution of such crimes across districts during this period. This visualization allows us to track changes in each district over time.
 
