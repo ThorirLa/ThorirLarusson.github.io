@@ -39,17 +39,15 @@ Additionally, employing tools such as heatmaps, as demonstrated below, enables u
 <!-- HTML block starts -->
 <iframe src="{{ '/html/drug_arrest_map.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
-Social visualization techniques can greatly aid in lowering crime rates by identifying high-risk areas.
+Social visualization techniques can greatly aid in lowering crime rates by identifying high-risk areas which called predictive crime analyses which you can see more about [here][Predictive-policing].
 
-
-After seeing that Tenderloin is affilated with most of the drug and narcotics crimes I wondered if it has always been like this for the past 15 years so next we are going to show you a bokeh plot that show the drug and narcotics realted crimes for each district for the past 15 years. From this graph we can see how the districts change over the past years.
-
+After observing the prevalence of drug and narcotics crimes in the Tenderloin district, we wondered whether this trend has persisted over the past 15 years. Below, we present a bokeh plot illustrating the distribution of such crimes across districts during this period. This visualization allows us to track changes in each district over time.
 
 <!-- HTML block starts -->
 <iframe src="{{ '/html/drug_crimes_by_year_and_district.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
 
-
+The compelling bokeh graph confirms Tenderloin's dominance in drug and narcotics-related crimes, which aligns with expectations. Interestingly, upon excluding Tenderloin from the analysis, we notice that the Southern district closely follows in earlier years. It would be fascinating to explore additional historical data, such as during the onset of the cocaine crack epidemic, to further understand the evolution of district dynamics over time. Nonetheless, delving into the dataset of drug and narcotics crimes in San Francisco presents endless opportunities for analysis and the discovery of intriguing insights.
 
 
 
@@ -60,5 +58,7 @@ After seeing that Tenderloin is affilated with most of the drug and narcotics cr
 [opioid-epidemic]: https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States
 [most-common-drug]: https://www.roselegalservices.com/what-drug-charges-are-most-common/
 [tenderloin]: https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco#:~:text=Part%20of%20the%20western%20extent,and%20crime%20in%20the%20city.
+[Predictive-policing]: https://en.wikipedia.org/wiki/Predictive_policing
+
 
 
