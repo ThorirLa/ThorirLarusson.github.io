@@ -23,10 +23,8 @@ For additional context, consider the image and link showcasing the waves of the 
 
 Additionally, in an [article][most-common-drug] I found, the most common drug charge is the possession of marijuana, typically classified as a misdemeanor. This observation could potentially correlate with the decrease in reported drug-related incidents. Given that California legalized the possession of marijuana in 2018, it's possible that the popularity of marijuana wasn't being accurately reported in the later years, thus contributing to the apparent decline in drug-related incidents. While various factors could explain the observed decreases, this aspect is nonetheless intriguing.
 
-Now let's shift our focus away from the topic of drug and narcotics crime incidents and delve into a different aspect by examining the districts in the San Francisco area. This exploration may offer insights into where the highest concentration of related crimes occurs within the districts. With this knowledge, we can allocate additional police resources to those areas accordingly.
 
-Next, we'll present the Crime by District map:
-[Crime by District](/html/map.html)
+Now let's shift our focus to district-level analysis, we present a choropleth map showcasing drug-related crimes across San Francisco districts. This exploration may offer insights into where the highest concentration of related crimes occurs within the districts. With this knowledge, we can allocate additional police resources to those areas accordingly.
 
 <!-- HTML block starts -->
 <iframe src="{{ '/html/map.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
