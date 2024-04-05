@@ -46,7 +46,7 @@ After observing the prevalence of drug and narcotics crimes in the Tenderloin di
 <iframe src="{{ '/html/drug_crimes_by_year_and_district.html' | prepend: site.baseurl }}" width="100%" height="500"></iframe>
 <!-- HTML block ends -->
 
-The compelling bokeh graph confirms Tenderloin's dominance in drug and narcotics-related crimes, which aligns with expectations. Interestingly, upon excluding Tenderloin from the analysis, we notice that the Southern district closely follows in earlier years. It would be fascinating to explore additional historical data, such as during the onset of the cocaine crack epidemic, to further understand the evolution of district dynamics over time. Nonetheless, delving into the dataset of drug and narcotics crimes in San Francisco presents endless opportunities for analysis and the discovery of intriguing insights.
+The compelling bokeh graph confirms Tenderloin's dominance in drug and narcotics-related crimes, which aligns with expectations. Interestingly, upon excluding Tenderloin from the analysis, we notice that the Southern district follows closely behinde and even in 2017 it is basically even. It would be fascinating to explore additional historical data, such as during the onset of the cocaine crack epidemic, to further understand the evolution of district dynamics over time. Nonetheless, delving into the dataset of drug and narcotics crimes in San Francisco presents endless opportunities for analysis and the discovery of intriguing insights.
 
 
 
